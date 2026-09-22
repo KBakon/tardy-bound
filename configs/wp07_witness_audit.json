@@ -1,0 +1,7 @@
+{
+  "work_package": "WP07",
+  "frozen_input": "tardy_bound/outputs/wp06",
+  "permitted_diagnostics": ["D1", "D2", "D3", "D4", "D5"],
+  "new_instance_generation": false,
+  "matching_revision": false
+}

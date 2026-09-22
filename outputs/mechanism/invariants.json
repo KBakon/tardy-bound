@@ -1,0 +1,14 @@
+{
+  "valid": true,
+  "failures": [],
+  "generated": 3084,
+  "admitted": 1875,
+  "excluded": 1209,
+  "classes": 1833,
+  "nontrivial": 42,
+  "witness_pairs": 42,
+  "all_delta_ranges_one": true,
+  "all_pairs_one_transposition": true,
+  "strict_sign_reversal_classes": 0,
+  "stage_a_signature_recomputed": true
+}

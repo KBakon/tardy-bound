@@ -1,0 +1,36 @@
+{
+  "timestamp": "2026-09-19T17:30:55.556198+00:00",
+  "python": "3.13.15 (tags/v3.13.15:4061bc4, Aug  5 2026, 13:05:39) [MSC v.1944 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "frozen_inputs": {
+    "instances.csv": "2f08d4f1a0231133ae990b11c743f46561a869be34961d882653ce1b49b4a1c3",
+    "instances_preoutcome.csv": "fadd18cedf44f2aaef4f95e4d770810b0285100d544e2295750dbd5b780eb47c",
+    "matched_classes_preoutcome.csv": "e077ba3d5a998f39aea9ce85fbab2e6d627084b6bdc3fe36433cb6682a2a431a",
+    "matched_classes.csv": "27935d99f591ec68e9c03fff2971a650121b9e3b6aff7fd7b1bbde6783f503bd",
+    "witnesses.csv": "75afa21e2683f1b967b877e75de23b0d35e70df5c2974e5c70cd573bcf099698",
+    "exclusions.csv": "bffe13b4f81771bdc547a6d7d66a8a43bce67eca0ad290f66693410e3a87f350",
+    "mk_v2_signature_preoutcome.csv": "01e2d421f141c19fbc883826d29b693651593addc6eeec9ffb39d8b156fee62e"
+  },
+  "outputs": {
+    "diagnostic_alpha_geometry.csv": "8c622d223f18686fb03844f144b1cd38a0c9ee1f49f26a32eb2b8c50f98759a2",
+    "diagnostic_beta_equivalence.csv": "051bc3158255d36ce18e833661573c58a80ed1328ac2999048e780c2a1e67960",
+    "diagnostic_c22.csv": "37157fdea40ea1025d2267983644972b9b522e258c3522d600371a3be366d977",
+    "diagnostic_key_scores.csv": "f098f4d37a8c3f4e6ce9981dce30c81c1df73e43535c88e0b13541c96df87be6",
+    "diagnostic_mdd_margins.csv": "aec909c2668f9d77a895f7718e72b7e368d43f475fac13ab7a6f53485bf42836",
+    "exact_mechanism_cases.csv": "018050e841cbbff3a6ffc2770748359c71e8c1c86c46e506a175c9fc159689d2",
+    "heuristic_tardiness_decomposition.csv": "df22a4930431f99612429e25bdd7cddb70a2c0461477f807ae9c30a92b83f960",
+    "negative_control_checks.csv": "ac50032e4a1c3e69868cc349b80475b85ddfe084f6e395931ab5e56fa47784c2",
+    "pairing_transformations.csv": "643b892227795bb9a329516b7b20853125871662cd7207ccc0274a74da5ac8ca",
+    "pair_delta_contributions.csv": "9f818eea0011266153ddc26c57e34034e0f3409e438b28577f91d17abf3f24e6",
+    "witness_pair_reproduction.csv": "0373145a944ee2064e595d51ee5a11dfe9c1c59243c6ed2714037a73b6ded6bd",
+    "invariants.json": "f5b612a86f9511114b0c0d6154ac431fb5da2b8afdb3c42595c1a516c6049786",
+    "report": "a5000db9718ca796b9ee89671a8e2c1f9138a9119120fc2386a81e46396ef483"
+  },
+  "source_hashes": {
+    "wp07_witness_audit.py": "7e10cebbca162017c7d93c173d6dee9809446a38e1c568cb90c404132fca917b",
+    "wp07_witness_audit.json": "d651c409b1c07c00b623906657cb6c83de014f5a2f7ae75cd1908f494c0e2bb9"
+  },
+  "test_status": "PASS: pytest tardy_bound/tests (13 passed)",
+  "outcome_access": "WP07 accessed outcome fields only for the 42 frozen witness pairs after frozen-class reproduction; no new instances or matching were performed.",
+  "terminal_candidate": "HETEROGENEOUS_OR_UNRESOLVED_MECHANISM"
+}

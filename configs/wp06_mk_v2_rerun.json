@@ -1,0 +1,1 @@
+{"work_package":"WP06_FROZEN_MK_V2_RERUN","expected_instances":3084,"n_values":[3,4],"processing_times":"(1,...,n)","due_date_domain":"all n-subsets of [1,P-1], all pairings","schema":"TARDY_BOUND_MK_V2","exact_arithmetic":true}

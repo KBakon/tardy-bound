@@ -1,0 +1,21 @@
+{
+  "admitted": 1875,
+  "config_hash": "49b7cf20af7503d30936b98d90a0f6af56ddc6984614570f7541738e72c1938e",
+  "excluded": 1209,
+  "exclusion_counts": {
+    "closure_count>1": 1209
+  },
+  "execution_timestamp": "2026-09-19T07:05:04.872467+00:00",
+  "invariant_status": "PASS",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "python": "3.13.15 (tags/v3.13.15:4061bc4, Aug  5 2026, 13:05:39) [MSC v.1944 64 bit (AMD64)]",
+  "source_hashes": {
+    "tardy_bound\\src\\theory_state_v2.py": "d816ae741bd18119c2d6c99c33aecd14e362b6224d2e0cf23dfaa1acb6702046",
+    "tardy_bound\\src\\wp06_mk_v2_rerun.py": "cac1729e007cf83def69b0554b455dab7a9658be20f863c37dc0c26c515c1c9d"
+  },
+  "stage_A_manifest_hash": "46df922a9791b3d609e03b55fbed65f031e908074861ae25d76c9894db75e9d7",
+  "terminal_status": "WITHIN_MATCHED_STATE_VARIATION_FOUND",
+  "test_status": "PASS",
+  "total_generated": 3084,
+  "wp03_post_freeze_outcome_parity": "PASS"
+}

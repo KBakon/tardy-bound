@@ -1,0 +1,14 @@
+{
+  "diagnostics_unkeyed": true,
+  "domain_counts": true,
+  "induced_equivalence": true,
+  "mdd_trie_leaf_parity": true,
+  "p_d_domain": true,
+  "pairing_uniqueness": true,
+  "stage_A_hashes_unchanged": true,
+  "tau_identity": true,
+  "tests_passed": true,
+  "theorem_oracle_failures": [],
+  "v2_deterministic": true,
+  "v2_state_formulas": true
+}

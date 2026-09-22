@@ -1,0 +1,26 @@
+{
+  "invariants": {
+    "all_leg_predictions_match": true,
+    "all_telescope": true,
+    "cross_component_pairs": true,
+    "stage_A_hashes_unchanged": true,
+    "target_classes": true
+  },
+  "output_hashes": {
+    "canonical_paths.csv": "d05d6e3df2ebd76ed7c5b3b946600581530774091d454d552fc55557a0e5e03f",
+    "canonical_paths_preoutcome.csv": "e3b6ed3528e7071702d4f1d240782fc032c517fba78adf4a73286ff432ed0ba0",
+    "class_connectivity_summary.csv": "dff41391a0fd60a34be90670652440b2c44b2c2cece4a3ed73da75081f31b1da",
+    "cross_component_pairs.csv": "dc10dc21d830706f25ec8bd73f5ac4e44886899a6ead81e1adc3b12efb48d373",
+    "cross_component_pairs_preoutcome.csv": "7d6cd54773bf8fc06fac39af37413f4b5604afe42de7e012eb4d0fb104eaef70",
+    "outcome_firewall_manifest.json": "2686130fa667f66eadc930b137e47018fe16b6aaa7dbd981e62b16c612c8981d",
+    "path_leg_predictions_preoutcome.csv": "309354ff23e97b2eb0816984086f00439862aa502c2c8c0cc52fd6c5a07ce826",
+    "path_leg_verification.csv": "09f84a9595330b8e9be46c6ca91b9d87c6be9316ebb553794104ae7b1c00ddc0",
+    "theory_state_transitions.csv": "26642324b62c67dd0a64c8a3b47164224d2950085f86b46385c459eeaf7137fc",
+    "theory_state_transitions_preoutcome.csv": "26642324b62c67dd0a64c8a3b47164224d2950085f86b46385c459eeaf7137fc"
+  },
+  "platform": "Windows-11-10.0.26200-SP0",
+  "python": "3.13.15 (tags/v3.13.15:4061bc4, Aug  5 2026, 13:05:39) [MSC v.1944 64 bit (AMD64)]",
+  "stage_A_manifest_hash": "2686130fa667f66eadc930b137e47018fe16b6aaa7dbd981e62b16c612c8981d",
+  "terminal_label": "CROSS_STATE_EXCHANGE_TELESCOPING_COMPLETE",
+  "timestamp": "2026-09-20T06:45:05.761594+00:00"
+}

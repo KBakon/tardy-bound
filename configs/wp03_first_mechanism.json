@@ -1,0 +1,9 @@
+{
+  "work_package": "WP03_FIRST_CODEX_MECHANISM_EXPERIMENT",
+  "n_values": [3, 4],
+  "processing_times": "(1,...,n)",
+  "due_dates": "all n-subsets of [1,P-1], all bijections to p-ranks",
+  "expected_instances": 3084,
+  "exact_arithmetic": true,
+  "outcome": "Delta=TT(SPT)-TT(EDD)"
+}

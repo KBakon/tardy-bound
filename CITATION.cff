@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "Please complete the author, repository, release-date, and DOI fields before publication."
+title: "TARDY-BOUND Reproducibility Package"
+type: software
+abstract: "Publication artifact supporting exact computational verification of a bounded theory-state sufficiency/connectivity boundary for SPT–EDD relative total tardiness."
+authors:
+  - family-names: "[TO BE COMPLETED]"
+    given-names: "[TO BE COMPLETED]"
+    affiliation: "[TO BE COMPLETED]"
+    orcid: "[TO BE COMPLETED]"
+version: "[TO BE COMPLETED]"
+date-released: "[TO BE COMPLETED]"
+license: "NOASSERTION"
+repository-code: "https://github.com/[TO BE COMPLETED]"
+keywords:
+  - single-machine scheduling
+  - total tardiness
+  - SPT
+  - EDD
+  - exact enumeration
+  - reproducibility

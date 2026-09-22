@@ -1,0 +1,22 @@
+{
+  "artifacts": {
+    "canonical_paths_preoutcome.csv": "e3b6ed3528e7071702d4f1d240782fc032c517fba78adf4a73286ff432ed0ba0",
+    "cross_component_pairs_preoutcome.csv": "7d6cd54773bf8fc06fac39af37413f4b5604afe42de7e012eb4d0fb104eaef70",
+    "path_leg_predictions_preoutcome.csv": "309354ff23e97b2eb0816984086f00439862aa502c2c8c0cc52fd6c5a07ce826",
+    "theory_state_transitions_preoutcome.csv": "26642324b62c67dd0a64c8a3b47164224d2950085f86b46385c459eeaf7137fc"
+  },
+  "certification": "Stage A rejected outcome-bearing sources and used only frozen WP09 Stage-A p/d, signature, class, component, and exclusion data.",
+  "required_inputs": {
+    "exchange_components_preoutcome.csv": "9e9a467a42b5daefbf1cbfd9b579c5f046602a0a28c0860912291b562e322f9b",
+    "exclusions.csv": "5d0160c44a88804cc1a60193a0f6589cd2774d8f6e99fa2c197797b993424881",
+    "instances_preoutcome.csv": "3a8783fc6ee3328e2a145a26205da1b8a58089098d3eef51bf079cdaf1658ae9",
+    "matched_classes_preoutcome.csv": "79654df6ea968124a80cff90d28437035273fcbc6332a033d82dfaa26b3cc522",
+    "mk_v2_signature_preoutcome.csv": "45793368f7b7d836bcbbedfa83447abdb809e59682aaef03e0afd8a130ac1685",
+    "preoutcome_manifest.json": "67b4ad93226f77ede45b8a778a4c635a9856520075111b1abfcdcbe452fcc308"
+  },
+  "source_config_hashes": {
+    "wp10_cross_state_audit.json": "11300e6525879674aa5d7075e408e89e6d9f522d316e9256b4de805d163da714",
+    "wp10_cross_state_audit.py": "6457f389e20c9b2ad94a0fc8c3588ed0298c495353983463a4618df93261b593"
+  },
+  "stage": "A_PRE_OUTCOME"
+}

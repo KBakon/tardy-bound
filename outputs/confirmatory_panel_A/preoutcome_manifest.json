@@ -1,0 +1,34 @@
+{
+  "admitted": 9608,
+  "artifacts": {
+    "exchange_components_preoutcome.csv": "9e9a467a42b5daefbf1cbfd9b579c5f046602a0a28c0860912291b562e322f9b",
+    "exchange_edges_preoutcome.csv": "236a7f0705e898015b87e7a178d91441cc6d70f0c599c07165e8b5ab1bb87543",
+    "exclusions.csv": "5d0160c44a88804cc1a60193a0f6589cd2774d8f6e99fa2c197797b993424881",
+    "instances_preoutcome.csv": "3a8783fc6ee3328e2a145a26205da1b8a58089098d3eef51bf079cdaf1658ae9",
+    "matched_classes_preoutcome.csv": "79654df6ea968124a80cff90d28437035273fcbc6332a033d82dfaa26b3cc522",
+    "mk_v2_signature_preoutcome.csv": "45793368f7b7d836bcbbedfa83447abdb809e59682aaef03e0afd8a130ac1685"
+  },
+  "by_panel": {
+    "A": {
+      "admitted": 228,
+      "excluded": 132,
+      "generated": 360
+    },
+    "B": {
+      "admitted": 9380,
+      "excluded": 5740,
+      "generated": 15120
+    }
+  },
+  "certification": "Stage A computed no SPT/EDD total tardiness, Delta, TT*, optimal schedule, or outcome join; class and exchange graph construction used only p/d data and frozen theory state.",
+  "excluded": 5872,
+  "exclusion_counts": {
+    "closure_count>1": 5872
+  },
+  "generated": 15480,
+  "source_config_hashes": {
+    "wp09_independent_validation.json": "7d0e2fa738a862d53e6e664e42a8d9c15227f62613189e4f11983e7417c8cce5",
+    "wp09_independent_validation.py": "12a013c3da2c4013e54cc66ebb04be36f5f1514fa99620c506341f0229733092"
+  },
+  "stage": "A_PRE_OUTCOME"
+}

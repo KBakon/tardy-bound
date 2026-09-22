@@ -1,0 +1,28 @@
+{
+  "config_hash": "7d0e2fa738a862d53e6e664e42a8d9c15227f62613189e4f11983e7417c8cce5",
+  "invariants_pass": true,
+  "outputs": {
+    "exchange_components.csv": "9e9a467a42b5daefbf1cbfd9b579c5f046602a0a28c0860912291b562e322f9b",
+    "exchange_components_preoutcome.csv": "9e9a467a42b5daefbf1cbfd9b579c5f046602a0a28c0860912291b562e322f9b",
+    "exchange_edges.csv": "78fe30d939a7d043c523f2a9a3d0503c6a8ba1a74933f106f887e591b0d87d07",
+    "exchange_edges_preoutcome.csv": "236a7f0705e898015b87e7a178d91441cc6d70f0c599c07165e8b5ab1bb87543",
+    "exclusions.csv": "5d0160c44a88804cc1a60193a0f6589cd2774d8f6e99fa2c197797b993424881",
+    "instances.csv": "b722444da19255804e8f9319d0707d6bdea66aaa32e349da62e6bfebd5a08435",
+    "instances_preoutcome.csv": "3a8783fc6ee3328e2a145a26205da1b8a58089098d3eef51bf079cdaf1658ae9",
+    "invariants.json": "d09b258864009232e48f60ca31ce5a7b3cec5a41a5e041e3481c7fe823342859",
+    "matched_classes.csv": "f8c269d6443fb2e2a91452e8029ae20e7d8d40e8d4ec56d310f982cb6bb07191",
+    "matched_classes_preoutcome.csv": "79654df6ea968124a80cff90d28437035273fcbc6332a033d82dfaa26b3cc522",
+    "mk_v2_signature_preoutcome.csv": "45793368f7b7d836bcbbedfa83447abdb809e59682aaef03e0afd8a130ac1685",
+    "oracle_optima.csv": "436d7242d05ef6312cc7a2009e59d3fd3f78f1661dbace1cc3efc8a751f38eaa",
+    "panel_summary.csv": "337bd11ac47d4290adbe579cd39cec8e9d41c7cdea9308f8751d2c5e5bba44de",
+    "preoutcome_manifest.json": "67b4ad93226f77ede45b8a778a4c635a9856520075111b1abfcdcbe452fcc308"
+  },
+  "platform": "Windows-11-10.0.26200-SP0",
+  "python": "3.13.15 (tags/v3.13.15:4061bc4, Aug  5 2026, 13:05:39) [MSC v.1944 64 bit (AMD64)]",
+  "source_hashes": {
+    "wp09_independent_validation.py": "12a013c3da2c4013e54cc66ebb04be36f5f1514fa99620c506341f0229733092"
+  },
+  "stage_A_manifest_hash": "67b4ad93226f77ede45b8a778a4c635a9856520075111b1abfcdcbe452fcc308",
+  "terminal_label": "CONFIRMATORY_RESIDUAL_OUTSIDE_EXCHANGE_REDUCTION",
+  "timestamp": "2026-09-19T19:43:05.682917+00:00"
+}

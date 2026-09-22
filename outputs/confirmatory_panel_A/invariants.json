@@ -1,0 +1,11 @@
+{
+  "admitted_excluded_accounting": true,
+  "component_ids_unchanged": true,
+  "domain": true,
+  "edge_predictions": true,
+  "panel_A_generated": true,
+  "panel_B_generated": true,
+  "stage_A_hashes_unchanged": true,
+  "theorem_oracle_failures": [],
+  "total_generated": true
+}

@@ -1,0 +1,8 @@
+{
+  "work_package": "WP04_STAGE_A_SIGNATURE_FEASIBILITY_AUDIT",
+  "allowed_wp03_stage_a_inputs_only": true,
+  "signature_layers": ["S0", "S1", "S2", "S3", "S4", "S5", "S6"],
+  "expected_generated": 3084,
+  "expected_admitted": 1875,
+  "expected_excluded": 1209
+}

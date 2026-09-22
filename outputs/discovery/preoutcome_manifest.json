@@ -1,0 +1,21 @@
+{
+  "admitted": 1875,
+  "artifacts": {
+    "exclusions.csv": "bffe13b4f81771bdc547a6d7d66a8a43bce67eca0ad290f66693410e3a87f350",
+    "instances_preoutcome.csv": "fadd18cedf44f2aaef4f95e4d770810b0285100d544e2295750dbd5b780eb47c",
+    "k_v2_core_state.csv": "46d8226c8d04600799febc2640a6612beef3155b8df2237e9ab98e6a35bb4886",
+    "k_v2_diagnostics.csv": "9c8d2447e2d664e938563248c0a8fc45b7fa19eaaccfbbe5d9fe047834a1b746",
+    "lawler_partition_family.csv": "df6b9a6bd420b4dc0dd4267a9f737a3a6f6246fb0319d4f1f76af9c4c05d5bcb",
+    "matched_classes_preoutcome.csv": "e077ba3d5a998f39aea9ce85fbab2e6d627084b6bdc3fe36433cb6682a2a431a",
+    "mdd_decision_trie.csv": "784abfd9fd6ab044c0425013c78eb65802c7d6a8e7410707a023497c8a094554",
+    "mk_v2_signature_preoutcome.csv": "01e2d421f141c19fbc883826d29b693651593addc6eeec9ffb39d8b156fee62e"
+  },
+  "certification": "No SPT/EDD/Delta/optimum field was read, computed, or used in Stage-A eligibility, M_K v2, or class formation.",
+  "config_hash": "49b7cf20af7503d30936b98d90a0f6af56ddc6984614570f7541738e72c1938e",
+  "excluded": 1209,
+  "exclusion_counts": {
+    "closure_count>1": 1209
+  },
+  "stage": "A_PRE_OUTCOME",
+  "total_generated": 3084
+}
