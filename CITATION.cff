@@ -1,21 +1,20 @@
 cff-version: 1.2.0
-message: "Please complete the author, repository, release-date, and DOI fields before publication."
+message: "If you use this software, please cite it as below."
+
 title: "TARDY-BOUND Reproducibility Package"
+version: "1.0.0"
 type: software
-abstract: "Publication artifact supporting exact computational verification of a bounded theory-state sufficiency/connectivity boundary for SPT–EDD relative total tardiness."
+
 authors:
-  - family-names: "[TO BE COMPLETED]"
-    given-names: "[TO BE COMPLETED]"
-    affiliation: "[TO BE COMPLETED]"
-    orcid: "[TO BE COMPLETED]"
-version: "[TO BE COMPLETED]"
-date-released: "[TO BE COMPLETED]"
-license: "NOASSERTION"
-repository-code: "https://github.com/[TO BE COMPLETED]"
+  - given-names: "Krisztián Attila"
+    family-names: "Bakon"
+    affiliation: "University of Pannonia – Nagykanizsa University Center for Circular Economy"
+    orcid: "https://orcid.org/0000-0003-1882-094X"
+
 keywords:
-  - single-machine scheduling
-  - total tardiness
-  - SPT
-  - EDD
-  - exact enumeration
-  - reproducibility
+  - "single-machine scheduling"
+  - "total tardiness"
+  - "SPT"
+  - "EDD"
+  - "exact computation"
+  - "reproducibility"
