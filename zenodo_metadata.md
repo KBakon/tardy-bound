@@ -1,19 +1,22 @@
-# Draft Zenodo metadata
+# Zenodo release metadata
 
 Title:
 TARDY-BOUND Reproducibility Package
 
 Description:
-A computational artifact package supporting the exact verification and reproduction of the reported bounded theory-state sufficiency/connectivity boundary for SPT–EDD relative total tardiness in deterministic single-machine scheduling.
+A computational reproducibility package supporting the exact verification and
+reproduction of the reported bounded theory-state sufficiency/connectivity
+boundary for SPT–EDD relative total tardiness in deterministic single-machine
+scheduling.
 
-Creators:
-[TO BE COMPLETED]
+Creator:
+Krisztián Attila Bakon
 
-Affiliations:
-[TO BE COMPLETED]
+Affiliation:
+University of Pannonia – Nagykanizsa University Center for Circular Economy
 
 ORCID:
-[TO BE COMPLETED]
+https://orcid.org/0000-0003-1882-094X
 
 Keywords:
 
@@ -21,23 +24,24 @@ Keywords:
 - total tardiness
 - SPT
 - EDD
-- exact enumeration
+- exact computation
 - reproducibility
 
-Related publication:
-[TO BE COMPLETED AFTER ACCEPTANCE]
-
-Related publication DOI:
-[TO BE COMPLETED AFTER ACCEPTANCE]
-
 Version:
-[TO BE COMPLETED]
+1.0.1
 
-License:
-AUTHOR DECISION REQUIRED. Recommended options: MIT or BSD-3-Clause for source code; CC BY 4.0 for generated artifacts and documentation. Do not finalize this field without an author and publisher review.
+Licenses:
 
-DOI:
-[TO BE COMPLETED AFTER ZENODO RELEASE]
+- MIT License for source code and configuration files.
+- Creative Commons Attribution 4.0 International (CC BY 4.0) for generated
+  research artifacts and documentation.
 
 Repository URL:
-[TO BE COMPLETED]
+https://github.com/KBakon/tardy-bound
+
+Previous archived version:
+10.5281/zenodo.22912731
+
+Release DOI:
+A version-specific DOI is assigned by Zenodo when this GitHub release is
+archived.

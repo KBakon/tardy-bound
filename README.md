@@ -2,7 +2,10 @@
 
 ## Citation
 
-This package accompanies the TARDY-BOUND manuscript, *Beyond Tardiness Factor: A Theory-State Sufficiency Boundary for SPT–EDD Relative Total Tardiness*. Cite the associated publication and this specific release after the authors complete the metadata in `CITATION.cff` and `zenodo_metadata.md`. Do not cite the package as evidence for claims beyond the manuscript's bounded scientific scope.
+For reproducibility, cite the specific Zenodo version corresponding to the GitHub release used. Zenodo assigns a version-specific DOI to each archived
+release.
+
+The repository and its archived releases support only the bounded scientific scope described in the manuscript.
 
 ## Purpose
 
@@ -68,4 +71,9 @@ These artifacts do not establish broader empirical, industrial, real-world, or u
 
 ## Release status
 
-The citation metadata, DOI, creators, affiliations, ORCID values, repository URL, and final license remain author-completion items. No GitHub repository or Zenodo record is created or uploaded by this package-preparation task.
+GitHub repository:
+https://github.com/KBakon/tardy-bound
+
+Zenodo archiving is enabled through the GitHub integration. Each published GitHub release is archived as a versioned Zenodo software record with a version-specific DOI.
+
+Release metadata are maintained in `CITATION.cff`. The repository uses MIT licensing for source code and configuration files and CC BY 4.0 for generated research artifacts and documentation.
